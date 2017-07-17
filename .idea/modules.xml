@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/herencia_hibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/herencia_hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/herencia_hibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/herencia_hibernate_main.iml" group="herencia_hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/herencia_hibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/herencia_hibernate_test.iml" group="herencia_hibernate" />
+    </modules>
+  </component>
+</project>
